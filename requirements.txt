@@ -1,2 +1,0 @@
-plotnine
-ggplot
